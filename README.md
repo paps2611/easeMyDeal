@@ -1,5 +1,5 @@
 # easemydeal
-
+This Project is solely made for the purpose of evaluation from easemydeal.
 A Flutter application designed to simplify the management and display of event data. This project demonstrates how to fetch, filter, and present data using Flutter widgets in a clean and user-friendly interface.
 ## Getting Started
 
